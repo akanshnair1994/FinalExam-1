@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ArtistShoppe</string>
+    <string name="artist_id_string">Artist ID</string>
+    <string name="artist_first_name_string">Artist First Name</string>
+    <string name="artist_last_name_string">Artist Last Name</string>
+    <string name="title_main">Enter artist details here</string>
+    <string name="album_name_string">Album Name</string>
+    <string name="no_of_tracks_string">Number of Tracks</string>
+    <string name="price">Price</string>
+    <string name="add_string">Add</string>
+    <string name="update_string">Update</string>
+    <string name="remove_string">Remove</string>
+    <string name="read_string">Read</string>
+    <string name="clear">Clear</string>
+</resources>
